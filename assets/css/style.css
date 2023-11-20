@@ -2,10 +2,85 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 /* General Styles */
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+    font-family: 'poppins', 'sans-serif';
+}
 
 h1, h2, h3{
     font-family: 'poppins', 'sans-serif';
     text-transform: uppercase;
     color: #3a3a3a;
 }
+
+/* Header */
+
+header{
+    background-color: #BDB76B;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    font-size: 110%;
+    letter-spacing: 5px;
+    list-style-type: none;
+}
+
+#menu > li{
+    margin-bottom: 1em;
+}
+
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* navbar styles */
+
+nav {
+    position: absolute;
+    background-color: #BDB76B;
+    width: 100%;
+    padding: 0 1rem;
+    left: 0;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+    display: none;
+}
+
+/* Nav toggle styles */
+
+#nav-toggle:checked~nav{
+    display: block;
+}
+
+#nav-toggle{
+    display: none;
+}
+
+.nav-toggle-label{
+    font-size: 2rem;
+}
+
