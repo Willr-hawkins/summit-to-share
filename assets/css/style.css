@@ -29,20 +29,24 @@ h3 {
 /* Header */
 
 header {
-  background-color: #bdb76b;
+  background-color: #ffffff;
   padding: 0 1rem;
   position: fixed;
   z-index: 99;
   width: 100%;
   box-shadow: 0 2px 2px #3a3a3a;
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: baseline;
 }
 
+header h1{
+    text-align: center;
+}
+
 header a {
   text-decoration: none;
-  color: inherit;
+  color: #3a3a3a;
   font-size: 130%;
 }
 
@@ -64,7 +68,7 @@ ul {
 
 nav {
   position: absolute;
-  background-color: #bdb76b;
+  background-color: #ffffff;
   width: 100%;
   padding: 0 1rem;
   left: 0;
@@ -85,6 +89,7 @@ nav {
 
 .nav-toggle-label {
   font-size: 2rem;
+  text-align: left;
 }
 
 /* Main content */
@@ -119,10 +124,27 @@ main {
   color: #3a3a3a;
 }
 
+/* About section */
+
+#about{
+    background-color: #ffffff;
+    width: 90%;
+}
+
+#about h2{
+   text-align: center;
+   text-decoration: underline;
+   padding-bottom: 20px;
+   padding-top: 5px;
+}
+
+
+#about 
+
 /* Footer content */
 
 footer{
-    background-color: #bdb76b;
+    background-color: #ffffff;
 }
 
 footer > h2{
