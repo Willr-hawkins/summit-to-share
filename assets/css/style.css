@@ -3,174 +3,187 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 /* General Styles */
 
 body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  color: #3a3a3a;
-  font-family: "poppins", "sans-serif";
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+    font-family: "poppins", "sans-serif";
 }
 
 h1,
 h2,
 h3 {
-  font-family: "poppins", "sans-serif";
-  text-transform: uppercase;
-  color: #3a3a3a;
+    font-family: "poppins", "sans-serif";
+    text-transform: uppercase;
+    color: #3a3a3a;
 }
 
 /* Header */
 
 header {
-  background-color: #ffffff;
-  padding: 0 1rem;
-  position: fixed;
-  z-index: 99;
-  width: 100%;
-  box-shadow: 0 2px 2px #3a3a3a;
-  display: block;
-  justify-content: space-between;
-  align-items: baseline;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: block;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
-header h1{
+header h1 {
     text-align: center;
 }
 
 header a {
-  text-decoration: none;
-  color: #3a3a3a;
-  font-size: 130%;
+    text-decoration: none;
+    color: #3a3a3a;
+    font-size: 130%;
 }
 
 ul {
-  font-size: 110%;
-  letter-spacing: 5px;
-  list-style-type: none;
+    font-size: 110%;
+    letter-spacing: 5px;
+    list-style-type: none;
 }
 
-#menu > li {
-  margin-bottom: 1em;
+#menu>li {
+    margin-bottom: 1em;
 }
 
 .active {
-  border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* navbar styles */
 
 nav {
-  position: absolute;
-  background-color: #ffffff;
-  width: 100%;
-  padding: 0 1rem;
-  left: 0;
-  box-shadow: 0 2px 2px #3a3a3a;
-  top: 100%;
-  display: none;
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 0 1rem;
+    left: 0;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+    display: none;
 }
 
 /* Nav toggle styles */
 
-#nav-toggle:checked ~ nav {
-  display: block;
+#nav-toggle:checked~nav {
+    display: block;
 }
 
 #nav-toggle {
-  display: none;
+    display: none;
 }
 
 .nav-toggle-label {
-  font-size: 2rem;
-  text-align: left;
+    font-size: 2rem;
+    text-align: left;
 }
 
 /* Main content */
 
 main {
-  flex: 1 0 auto;
-  margin-top: 47px;
+    flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Hero section */
 
 #hero {
-  height: 600px;
-  width: 100%;
-  background: url("../images/dartmoor-image.webp") no-repeat center center/cover;
-  position: relative;
+    height: 600px;
+    width: 100%;
+    background: url("../images/dartmoor-image.webp") no-repeat center center/cover;
+    position: relative;
 }
 
 #cover-text {
-  background-color: rgba(210, 180, 140, 0.7);
-  font-size: 110%;
-  position: absolute;
-  bottom: 30px;
-  width: 70%;
-  min-height: 150px;
-  padding-top: 40px;
-  padding-left: 10px;
+    background-color: rgba(210, 180, 140, 0.7);
+    font-size: 110%;
+    position: absolute;
+    bottom: 30px;
+    width: 70%;
+    min-height: 150px;
+    padding-top: 40px;
+    padding-left: 10px;
 }
 
-#cover-text > h2,
-#cover-text > h3 {
-  color: #3a3a3a;
+#cover-text>h2,
+#cover-text>h3 {
+    color: #3a3a3a;
+}
+
+/* Charity Hero section */
+
+#charity-hero{
+    height: 600px;
+    width: 100%;
+    background: url("../images/ask-for-jake.webp") no-repeat center center/cover;
+    position: relative;
 }
 
 /* About section */
 
-#about{
+#about {
     background-color: #ffffff;
     width: 90%;
     margin: 20px auto;
 }
 
-#about h2{
-   text-align: center;
-   text-decoration: underline;
-   padding-bottom: 20px;
-   padding-top: 5px;
+#about h2 {
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 20px;
+    padding-top: 5px;
 }
 
-#about h3{
+#about h3 {
     text-align: center;
 }
 
-#who{
+#who {
     margin-bottom: 20px;
     line-height: 20px;
 }
 
-#why{
+#why {
     margin-bottom: 20px;
     line-height: 20px;
 }
 
-#goal{
+#goal {
     margin-bottom: 20px;
     line-height: 20px;
+}
+
+#about p {
+    margin-top: 10px;
 }
 
 /* Footer content */
 
-footer{
+footer {
     background-color: #ffffff;
 }
 
-footer > h2{
+footer>h2 {
     color: #3a3a3a;
     font-size: 120%;
     text-align: center;
 }
 
-#instagram{
+#instagram {
     text-align: center;
     padding: 20px 0;
     display: flex;
