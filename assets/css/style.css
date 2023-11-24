@@ -133,6 +133,41 @@ main {
     position: relative;
 }
 
+#about-charity{
+    width: 90%;
+    margin: 20px auto;
+}
+
+#about-charity h2{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#about-charity h3{
+    text-align: center;
+}
+
+#info {
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#location {
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#our-choice {
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#about-charity p {
+    margin-top: 10px;
+}
+
+
 /* About section */
 
 #about {
