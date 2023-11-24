@@ -129,6 +129,7 @@ main {
 #about{
     background-color: #ffffff;
     width: 90%;
+    margin: 20px auto;
 }
 
 #about h2{
@@ -138,8 +139,24 @@ main {
    padding-top: 5px;
 }
 
+#about h3{
+    text-align: center;
+}
 
-#about 
+#who{
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#why{
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#goal{
+    margin-bottom: 20px;
+    line-height: 20px;
+}
 
 /* Footer content */
 
