@@ -126,25 +126,25 @@ main {
 
 /* Charity Hero section */
 
-#charity-hero{
+#charity-hero {
     height: 600px;
     width: 100%;
     background: url("../images/ask-for-jake.webp") no-repeat center center/cover;
     position: relative;
 }
 
-#about-charity{
+#about-charity {
     width: 90%;
     margin: 20px auto;
 }
 
-#about-charity h2{
+#about-charity h2 {
     text-align: center;
     text-decoration: underline;
     margin-bottom: 20px;
 }
 
-#about-charity h3{
+#about-charity h3 {
     text-align: center;
 }
 
@@ -167,6 +167,9 @@ main {
     margin-top: 10px;
 }
 
+#website h3 {
+    text-decoration: none;
+}
 
 /* About section */
 
