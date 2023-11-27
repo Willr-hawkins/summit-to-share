@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    color: #d4df9e;
     font-family: "poppins", "sans-serif";
 }
 
@@ -23,18 +23,18 @@ h2,
 h3 {
     font-family: "poppins", "sans-serif";
     text-transform: uppercase;
-    color: #3a3a3a;
+    color: #d4df9e;
 }
 
 /* Header */
 
 header {
-    background-color: #ffffff;
+    background-color: #4E3D42;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #4E3D42;
     display: block;
     justify-content: space-between;
     align-items: baseline;
@@ -46,7 +46,7 @@ header h1 {
 
 header a {
     text-decoration: none;
-    color: #3a3a3a;
+    color: #d4df9e;
     font-size: 130%;
 }
 
@@ -61,18 +61,18 @@ ul {
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #4E3D42;
 }
 
 /* navbar styles */
 
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #4E3D42;
     width: 100%;
     padding: 0 1rem;
     left: 0;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #4E3D42;
     top: 100%;
     display: none;
 }
@@ -104,12 +104,12 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/dartmoor-image.webp") no-repeat center center/cover;
+    background: url("../images/devon-countryside.webp") no-repeat center center/cover;
     position: relative;
 }
 
 #cover-text {
-    background-color: rgba(210, 180, 140, 0.7);
+    background-color: #a78682;
     font-size: 110%;
     position: absolute;
     bottom: 30px;
@@ -121,7 +121,7 @@ main {
 
 #cover-text>h2,
 #cover-text>h3 {
-    color: #3a3a3a;
+    color: #F1F2E3;
 }
 
 /* Charity Hero section */
@@ -174,9 +174,9 @@ main {
 /* About section */
 
 #about {
-    background-color: #ffffff;
-    width: 90%;
-    margin: 20px auto;
+    background-color: #617557;
+    width: 100%;
+    color: #F1F2E3;
 }
 
 #about h2 {
@@ -184,15 +184,18 @@ main {
     text-decoration: underline;
     padding-bottom: 20px;
     padding-top: 5px;
+    color: #F1F2E3;
 }
 
 #about h3 {
     text-align: center;
+    color: #F1F2E3;
 }
 
 #who {
     margin-bottom: 20px;
     line-height: 20px;
+    
 }
 
 #why {
@@ -201,7 +204,6 @@ main {
 }
 
 #goal {
-    margin-bottom: 20px;
     line-height: 20px;
 }
 
@@ -209,14 +211,17 @@ main {
     margin-top: 10px;
 }
 
+hr{
+    border-color: #F1F2E3;
+}
 /* Footer content */
 
 footer {
-    background-color: #ffffff;
+    background-color: #4E3D42;
 }
 
 footer>h2 {
-    color: #3a3a3a;
+    color: #d4df9e;
     font-size: 120%;
     text-align: center;
 }
@@ -227,6 +232,41 @@ footer>h2 {
     display: flex;
     justify-content: center;
     font-size: 200%;
-    color: #3a3a3a;
+    color: #d4df9e;
     text-decoration: none;
+}
+
+/* media query: tablets and larger (768px and up) */
+
+@media screen and (min-width: 768px) {
+   /* header */
+nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    main {
+        margin-top: 79px;
+    }
 }
