@@ -195,7 +195,7 @@ main {
 #who {
     margin-bottom: 20px;
     line-height: 20px;
-    
+
 }
 
 #why {
@@ -209,11 +209,13 @@ main {
 
 #about p {
     margin-top: 10px;
+    margin-left: 10px;
 }
 
-hr{
+hr {
     border-color: #F1F2E3;
 }
+
 /* Footer content */
 
 footer {
@@ -239,34 +241,80 @@ footer>h2 {
 /* media query: tablets and larger (768px and up) */
 
 @media screen and (min-width: 768px) {
-   /* header */
-nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 1rem;
+
+    /* header */
+    
+    header{
+        height: 80px;
     }
 
-    #menu {
-        display: flex;
-    }
-
-    #menu>li {
-        padding-left: 1rem;
+    header h1 {
+        float: left;
+        display: inline;
     }
 
     .nav-toggle-label {
-        display: none;
+        float: right;
+        margin-top: 10px;
+    }
+
+    #menu{
+       float: right;
     }
 
     #logo {
-        font-size: 280%;
+        font-size: 200%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
 
     main {
         margin-top: 79px;
+    }
+
+    /* Hero section */
+
+    #cover-text {
+        width: 40%;
+    }
+
+    /* about section */
+
+    
+
+    #about h2{
+        font-size: 200%;
+        padding: 20px;
+    }
+
+    #why, #who, #goal {
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        padding-bottom: 30px;
+    }
+
+    #why{
+        float: right;
+    }
+
+    #about h3{
+        font-size: 150%;
+    }
+
+    #about p{
+        font-size: 150%;
+        line-height: 30px;
+    }
+
+    #goal{
+        margin-bottom: 0;
+    }
+
+    /* Footer section */
+
+    footer h2{
+        font-size: 150%;
+        padding-top: 20px;
     }
 }
