@@ -145,7 +145,7 @@ main {
     text-align: center;
     text-decoration: underline;
     padding-bottom: 20px;
-    padding-top: 5px;
+    padding-top: 10px;
     color: #F1F2E3;
 }
 
@@ -219,6 +219,8 @@ hr {
 
 #charity h2{
     text-decoration: underline;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 #charity p{
@@ -236,6 +238,16 @@ hr {
 
 #our-choice{
     background-color: rgb(212,223,158,0.6);
+}
+
+#website{
+    padding: 5px 5px 10px 5px;
+}
+
+#website a{
+    color: #F1F2E3;
+    text-decoration: none;
+    font-size: 90%;
 }
 
 
@@ -342,6 +354,34 @@ footer{
         max-height: 400px;
 
     }
+
+    /* Charity section */
+
+    #charity h2{
+        font-size: 200%;
+        padding: 20px;
+    }
+
+    #info, #location, #our-choice{
+        display: flex;
+        flex-direction: column;
+        width: 75%;
+        padding-bottom: 30px;
+        margin-bottom: 10px;
+    }
+
+    #location{
+        float: right;
+    }
+
+    #charity h3{
+        font-size: 150%;
+    }
+
+    #charity p{
+        font-size: 150%;
+    }
+
 
     /* Footer section */
 
