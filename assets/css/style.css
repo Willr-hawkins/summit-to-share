@@ -199,21 +199,40 @@ main {
 }
 
 #why {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     line-height: 20px;
 }
 
-#goal {
-    line-height: 20px;
+#why h3{
+    padding-top: 20px;
 }
 
 #about p {
-    margin-top: 10px;
-    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 hr {
     border-color: #F1F2E3;
+}
+
+/* About image */
+
+#about-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circle-cover-image{
+    background: url(../images/summit-to-share-background.webp) no-repeat top center/cover;
+    position: relative;
+    height: 90vw;
+    width: 90vw;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 /* Footer content */
