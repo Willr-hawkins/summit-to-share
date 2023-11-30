@@ -89,7 +89,6 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    text-align: left;
 }
 
 /* Main content */
@@ -109,7 +108,7 @@ main {
 }
 
 #cover-text {
-    background-color: #a78682;
+    background-color: rgb(167, 134, 130, 0.75);
     font-size: 110%;
     position: absolute;
     bottom: 30px;
@@ -190,21 +189,20 @@ main {
 #about h3 {
     text-align: center;
     color: #F1F2E3;
+    padding-top: 10px;
 }
 
-#who {
-    margin-bottom: 20px;
+#who, #why {
     line-height: 20px;
-
+    margin-bottom: 10px;
 }
 
-#why {
-    padding-bottom: 20px;
-    line-height: 20px;
+#who{
+    background-color: rgb(78,61,66, 0.6);
 }
 
-#why h3{
-    padding-top: 20px;
+#why{
+    background-color: rgb(167, 134, 130, 0.6);
 }
 
 #about p {
@@ -233,28 +231,32 @@ hr {
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 /* Footer content */
 
-footer {
+footer{
     background-color: #4E3D42;
 }
 
-footer>h2 {
-    color: #d4df9e;
-    font-size: 120%;
-    text-align: center;
-}
-
-#instagram {
+#links{
     text-align: center;
     padding: 20px 0;
     display: flex;
-    justify-content: center;
-    font-size: 200%;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#links i{
+    font-size: 170%;
     color: #d4df9e;
-    text-decoration: none;
+    padding: 5%;
+}
+
+#copyright{
+    display: none;
 }
 
 /* media query: tablets and larger (768px and up) */
@@ -299,22 +301,25 @@ footer>h2 {
 
     /* about section */
 
-    
-
     #about h2{
         font-size: 200%;
         padding: 20px;
     }
 
-    #why, #who, #goal {
+    #why, #who, #about-image {
         display: flex;
         flex-direction: column;
         width: 75%;
         padding-bottom: 30px;
     }
 
+    #about-image{
+        width: 100%;
+    }
+
     #why{
         float: right;
+        padding-right: 5px;
     }
 
     #about h3{
@@ -326,14 +331,18 @@ footer>h2 {
         line-height: 30px;
     }
 
-    #goal{
-        margin-bottom: 0;
+    /* About image */
+
+    #circle-cover-image{
+        max-width: 400px;
+        max-height: 400px;
+
     }
 
     /* Footer section */
 
-    footer h2{
-        font-size: 150%;
-        padding-top: 20px;
+    #copyright{
+        display: contents;
+        text-align: left;
     }
 }
