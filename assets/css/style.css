@@ -285,7 +285,66 @@ main {
     color: #F1F2E3;
     margin-bottom: 15px;
     text-align: center;
-    text-decoration: ;
+    font-size: 140%;
+    text-transform: capitalize;
+}
+
+.text-input{
+    background: #4E3D42;
+    color: #F1F2E3;
+    width: 100%;
+    height: 30px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #F1F2E3;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+#email-agree{
+    font-size: 90%;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+#text-agree{
+    font-size: 90%;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+fieldset{
+    margin: 20px 0px;
+    border-radius: 5px;
+    border: 2px dotted;
+    padding: 10px;
+}
+
+legend{
+    font-size: 120%;
+}
+
+fieldset > label{
+    font-size: 85%;
+}
+
+#hikes{
+    margin-top: 5px;
+}
+
+input[type=radio]{
+    margin-top: 10px;
+}
+
+#submit{
+    background-color: #4E3D42;
+    color: #d4df9e;
+    border: none;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+    font-weight: 600;
+    padding: 5px;
+    font-size: 1rem;
 }
 
 /* Footer content */
