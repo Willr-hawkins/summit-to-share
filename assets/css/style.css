@@ -256,6 +256,37 @@ hr {
     font-size: 90%;
 }
 
+/* Sign up content */
+
+main {
+    flex: 1 0 auto;
+    margin-top: 47px;
+    display: flex;
+    flex-direction: column;
+}
+
+#signup{
+    background-image: url(../images/dartmoor.webp);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#signup-form{
+    color: #F1F2E3;
+    background-color: rgb(167, 134, 130, 0.9);
+    padding: 30px;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+#signup-form h2{
+    color: #F1F2E3;
+    margin-bottom: 15px;
+    text-align: center;
+    text-decoration: ;
+}
 
 /* Footer content */
 
