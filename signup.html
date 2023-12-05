@@ -36,7 +36,43 @@
     </header>
 
     <!-- Main -->
-
+    <main>
+        <section id="signup">
+            <form action="https://formdump.codeinstitute.net" method="POST" id="signup-form">
+                <h2>Sign up to our Newsletter to hear about upcoming events!</h2>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first-name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last-name" id="last-name" clas="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="email" name="email-address" id="email-address" class="text-input" required>
+                <br>
+                <label for="phone-number">Phone Number</label>
+                <input type="number" name="phone-number" id="phone-number" class="text-input" required>
+                <br>
+                <input type="checkbox" id="email-agree" name="email-agree" value="agree-to-emails">
+                <label for="email-agree" id="email-agree">I agree to recieve emails from Summit To Share.</label>
+                <br>
+                <input type="checkbox" id="text-agree" name="text-agree" value="agree-to-text">
+                <label for="text-agree" id="text-agree">I agree to recieve texts from Summit To Share.</label>
+                <br>
+                <fieldset>
+                    <legend>Preferences</legend>
+                    <input type="radio" id="hikes" name="preference" value="hikes">
+                    <label for="hikes">I would like to hear about upcoming hikes.</label>
+                    <br>
+                    <input type="radio" id="fundraiser" name="preference" value="fundraiser">
+                    <label for="fundraiser">I would like to hear about upcoming fundraisers.</label>
+                    <br>
+                    <input type="radio" id="both" name="preference" value="both">
+                    <label for="both">I would like to hear about both upcoming hikes and fundraisers.</label>
+                </fieldset>
+              <input type="submit" id="submit" value="Submit">
+            </form>
+        </section>
+    </main>
     <!-- Footer -->
     
     <footer>

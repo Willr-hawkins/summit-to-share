@@ -153,6 +153,8 @@ main {
     text-align: center;
     color: #F1F2E3;
     padding-top: 10px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
 }
 
 #who, #why {
@@ -220,7 +222,11 @@ hr {
 #charity h2{
     text-decoration: underline;
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+#charity h3{
+    text-transform: capitalize;
 }
 
 #charity p{
