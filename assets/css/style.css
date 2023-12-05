@@ -41,13 +41,17 @@ header {
 }
 
 header h1 {
-    text-align: center;
+    text-align: left;
+    font-size: 2rem;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 header a {
     text-decoration: none;
     color: #d4df9e;
-    font-size: 130%;
+    font-size: 100%;
 }
 
 ul {
@@ -80,7 +84,7 @@ nav {
 /* Nav toggle styles */
 
 #nav-toggle:checked~nav {
-    display: block;
+    display: inline;
 }
 
 #nav-toggle {
@@ -89,6 +93,10 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    display: block;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* Main content */
@@ -109,7 +117,7 @@ main {
 
 #cover-text {
     background-color: rgb(167, 134, 130, 0.75);
-    font-size: 110%;
+    font-size: 1rem;
     position: absolute;
     bottom: 30px;
     width: 70%;
@@ -382,17 +390,23 @@ footer{
     }
 
     header h1 {
-        float: left;
-        display: inline;
+        display: inline-block;
+        font-size: 2rem;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .nav-toggle-label {
+        display: block;
         float: right;
+        font-size: 2rem;
         margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     #menu{
        float: right;
+       font-size: 150%;
     }
 
     #logo {
