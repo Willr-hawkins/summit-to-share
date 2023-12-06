@@ -165,16 +165,17 @@ main {
     margin-bottom: 10px;
 }
 
-#who, #why {
+#who,
+#why {
     line-height: 20px;
     margin-bottom: 10px;
 }
 
-#who{
-    background-color: rgb(78,61,66, 0.6);
+#who {
+    background-color: rgb(78, 61, 66, 0.6);
 }
 
-#why{
+#why {
     background-color: rgb(167, 134, 130, 0.6);
 }
 
@@ -190,13 +191,13 @@ hr {
 
 /* About image */
 
-#about-image{
+#about-image {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#circle-cover-image{
+#circle-cover-image {
     background: url(../images/summit-to-share-background.webp) no-repeat top center/cover;
     position: relative;
     height: 90vw;
@@ -210,55 +211,56 @@ hr {
 
 /* Charity section */
 
-#chairty-hero{
+#chairty-hero {
     background-color: #617557;
 }
 
-#charity{
+#charity {
     background-color: #617557;
     color: #F1F2E3;
     width: 100%;
 }
 
-#charity h2, #charity h3{
+#charity h2,
+#charity h3 {
     color: #F1F2E3;
     text-align: center;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
-#charity h2{
+#charity h2 {
     text-decoration: underline;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-#charity h3{
+#charity h3 {
     text-transform: capitalize;
 }
 
-#charity p{
+#charity p {
     margin-left: 10px;
     margin-right: 10px;
 }
 
-#info{
-    background-color: rgb(78,61,66,0.6);
+#info {
+    background-color: rgb(78, 61, 66, 0.6);
 }
 
-#location{
-    background-color: rgb(167,134,130,0.6);
+#location {
+    background-color: rgb(167, 134, 130, 0.6);
 }
 
-#our-choice{
-    background-color: rgb(212,223,158,0.6);
+#our-choice {
+    background-color: rgb(212, 223, 158, 0.6);
 }
 
-#website{
+#website {
     padding: 5px 5px 10px 5px;
 }
 
-#website a{
+#website a {
     color: #F1F2E3;
     text-decoration: none;
     font-size: 90%;
@@ -273,7 +275,7 @@ main {
     flex-direction: column;
 }
 
-#signup{
+#signup {
     background-image: url(../images/dartmoor.webp);
     background-size: cover;
     background-position: 75%;
@@ -281,14 +283,15 @@ main {
     flex-grow: 1;
 }
 
-#signup-form{
+#signup-form {
     color: #F1F2E3;
     background-color: rgb(167, 134, 130, 0.9);
     padding: 30px;
+    margin-top: 150px;
     margin-bottom: 20px;
 }
 
-#signup-form h2{
+#signup-form h2 {
     color: #F1F2E3;
     margin-bottom: 15px;
     text-align: center;
@@ -296,7 +299,7 @@ main {
     text-transform: capitalize;
 }
 
-.text-input{
+.text-input {
     background: #4E3D42;
     color: #F1F2E3;
     width: 100%;
@@ -307,42 +310,42 @@ main {
     padding: 0 5px;
 }
 
-#email-agree{
+#email-agree {
     font-size: 90%;
     font-style: italic;
     margin-top: 20px;
 }
 
-#text-agree{
+#text-agree {
     font-size: 90%;
     font-style: italic;
     margin-top: 15px;
 }
 
-fieldset{
+fieldset {
     margin: 20px 0px;
     border-radius: 5px;
     border: 2px dotted;
     padding: 10px;
 }
 
-legend{
+legend {
     font-size: 120%;
 }
 
-fieldset > label{
+fieldset>label {
     font-size: 85%;
 }
 
-#hikes{
+#hikes {
     margin-top: 5px;
 }
 
-input[type=radio]{
+input[type=radio] {
     margin-top: 10px;
 }
 
-#submit{
+#submit {
     background-color: #4E3D42;
     color: #d4df9e;
     border: none;
@@ -356,11 +359,11 @@ input[type=radio]{
 
 /* Footer content */
 
-footer{
+footer {
     background-color: #4E3D42;
 }
 
-#links{
+#links {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -368,13 +371,13 @@ footer{
     list-style-type: none;
 }
 
-#links i{
+#links i {
     font-size: 170%;
     color: #d4df9e;
     padding: 5%;
 }
 
-#copyright{
+#copyright {
     display: none;
 }
 
@@ -383,8 +386,8 @@ footer{
 @media screen and (min-width: 768px) {
 
     /* header */
-    
-    header{
+
+    header {
         height: 80px;
     }
 
@@ -403,9 +406,9 @@ footer{
         margin-bottom: 10px;
     }
 
-    #menu{
-       float: right;
-       font-size: 150%;
+    #menu {
+        float: right;
+        font-size: 150%;
     }
 
     #logo {
@@ -426,39 +429,41 @@ footer{
 
     /* about section */
 
-    #about h2{
+    #about h2 {
         font-size: 200%;
         padding: 20px;
     }
 
-    #why, #who, #about-image {
+    #why,
+    #who,
+    #about-image {
         display: flex;
         flex-direction: column;
         width: 75%;
         padding-bottom: 30px;
     }
 
-    #about-image{
+    #about-image {
         width: 100%;
     }
 
-    #why{
+    #why {
         float: right;
         padding-right: 5px;
     }
 
-    #about h3{
+    #about h3 {
         font-size: 150%;
     }
 
-    #about p{
+    #about p {
         font-size: 150%;
         line-height: 30px;
     }
 
     /* About image */
 
-    #circle-cover-image{
+    #circle-cover-image {
         max-width: 400px;
         max-height: 400px;
 
@@ -466,12 +471,14 @@ footer{
 
     /* Charity section */
 
-    #charity h2{
+    #charity h2 {
         font-size: 200%;
         padding: 20px;
     }
 
-    #info, #location, #our-choice{
+    #info,
+    #location,
+    #our-choice {
         display: flex;
         flex-direction: column;
         width: 75%;
@@ -479,27 +486,28 @@ footer{
         margin-bottom: 10px;
     }
 
-    #location{
+    #location {
         float: right;
     }
 
-    #charity h3{
+    #charity h3 {
         font-size: 150%;
     }
 
-    #charity p{
+    #charity p {
         font-size: 150%;
     }
 
-    /* Signup section */
+    /* Signup form section */
 
-    
+    #signup-form {
+        width: 400px;
+    }
 
     /* Footer section */
 
-    #copyright{
+    #copyright {
         display: contents;
         text-align: left;
     }
 }
-
