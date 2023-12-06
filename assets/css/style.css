@@ -285,7 +285,6 @@ main {
     color: #F1F2E3;
     background-color: rgb(167, 134, 130, 0.9);
     padding: 30px;
-    margin-top: 150px;
     margin-bottom: 20px;
 }
 
@@ -492,6 +491,9 @@ footer{
         font-size: 150%;
     }
 
+    /* Signup section */
+
+    
 
     /* Footer section */
 
@@ -500,3 +502,4 @@ footer{
         text-align: left;
     }
 }
+
