@@ -2,7 +2,7 @@
 
 Summit To Share is a site with the goal of helping to imporve young individuals mental health, by encouraging people to get together and go outside on hikes and talk to one another about how they are feeling. The site will be targeted towards people that struggle with their mental health and want to try and improve it in a fun and social way, by not only giving them the opportunity to talk to other about how they feel but also improve their physical health.
 
-![Mockup](http://github.com/Willr-hawkins/summit-to-share/assets/mockup-screenshot.webp)>
+![Mockup](http://github.com/Willr-hawkins/summit-to-share/assets/mockup-screenshot.webp)
 
 ## Features 
 
