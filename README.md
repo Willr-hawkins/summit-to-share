@@ -4,7 +4,7 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![Mockup](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/29fba661-8c54-4a3a-a4d2-75f81c27623a)
 
-## Features 
+## Pages and Features 
 
 ### Overall Features
 
@@ -15,6 +15,13 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
   - The links to each page are accessible via a burger icon dropdown located at the right of the header on all screen sizes.
 
 ![Nav Bar](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/ce17d7ba-e6d6-40a1-afa6-d986010c9482)
+
+- __The Footer__
+
+  - The footer is the featured on all three pages, and includes links to the Summit To Share Instagram and the donate page for the sponsored charity.
+  - On screens of 768px and larger there is also a copyright icon at the left of the footer.
+
+![The Footer](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/3a604e4a-07f2-4a47-b076-a30aa902d932)
 
 - __The landing page image__
 
