@@ -1,5 +1,7 @@
 # Summit To Share
 
+### Purpose and Target Audience
+
 Summit To Share is a site with the goal of helping to imporve young individuals mental health, by encouraging people to get together and go outside on hikes and talk to one another about how they are feeling. The site will be targeted towards people that struggle with their mental health and want to try and improve it in a fun and social way, by not only giving them the opportunity to talk to other about how they feel but also improve their physical health.
 
 ![Mockup](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/29fba661-8c54-4a3a-a4d2-75f81c27623a)
@@ -69,9 +71,12 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features Left to Implement
+## Design 
 
-- Another feature idea
+### Color palette
+
+The color palette for the website was created using ![coolors](https://coolors.co/).
+![Color Palette](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/c8133d7e-5c54-472e-aed5-f3094fe63703)
 
 ## Testing 
 
