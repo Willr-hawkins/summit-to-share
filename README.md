@@ -32,12 +32,12 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![Hero Image](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/00221197-48bf-4c80-9afa-c89c9d6374ea)
 
-- __Club Ethos Section__
+- __About Us__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About Us section of the home page contains two paragraphs explaining who Summit To Share is and why it was started. 
+  - The section also includes a circle image of the Groups first hike. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About Us](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/75da95d1-d861-40a9-9f04-a1131b0cdb92)
 
 - __Meetup Times section__
 
