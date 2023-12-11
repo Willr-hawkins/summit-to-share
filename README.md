@@ -39,12 +39,14 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![About Us](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/75da95d1-d861-40a9-9f04-a1131b0cdb92)
 
-- __Meetup Times section__
+### Charity Page
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- __Charity Hero Image__
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - This section will introduce the user to the sponored charity.
+  - This image used for this eection is the charity's logo so that users can recognise the charity.
+
+![Charity Hero Image](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/6f9d0f78-d471-43eb-a368-77403a83cc5f)
 
 - __The Footer__ 
 
