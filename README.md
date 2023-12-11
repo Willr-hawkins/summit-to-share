@@ -19,6 +19,7 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 - __The Footer__
 
   - The footer is the featured on all three pages, and includes links to the Summit To Share Instagram and the donate page for the sponsored charity.
+  - The links in this section will open in a new tab for a easy navigation experience.
   - On screens of 768px and larger there is also a copyright icon at the left of the footer.
 
 ![The Footer](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/3a604e4a-07f2-4a47-b076-a30aa902d932)
@@ -48,12 +49,12 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![Charity Hero Image](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/6f9d0f78-d471-43eb-a368-77403a83cc5f)
 
-- __The Footer__ 
+- __Who is Ask For Jake__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - This section of the Charity page gives the user some information on who the charity is, where they are based, and why Summit To Share chose them. 
+  - This section also contains a link to the AskForJake website.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Who is Ask For Jake](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/ccd1af72-e526-4f85-955b-c5ebd777c42d)
 
 - __Gallery__
 
