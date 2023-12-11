@@ -56,18 +56,14 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![Who is Ask For Jake](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/ccd1af72-e526-4f85-955b-c5ebd777c42d)
 
-- __Gallery__
+### Sign Up Page
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+- __Sign up form__
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+  - The Sign Up page allows the user to sign up to the Summit To Share newsletter, to hear about upcoming events and hikes.
+  - The page features a background image to make the form eyechtching to the user.
 
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/11196fe0-0212-49df-b4d8-637fa3d0d262)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
