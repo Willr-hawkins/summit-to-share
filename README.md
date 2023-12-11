@@ -84,6 +84,18 @@ The color palette for the website was created using [coolors](https://coolors.co
 - Background color: #617557 (Reseda green).
 - Cover text background colors: #A78682 (Cinereous), #D4DF9E (Tea green), #4E3D42 (Van Dyke).
 
+### Fonts 
+
+The fonts used for the website are sourced from [Google Fonts](https://fonts.google.com/).
+
+- The main font used is Poppins.
+
+![Poppins font](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/f42775b8-62a4-40fe-ae55-0e1e2eaa2233)
+
+- The backup font used is Lato.
+
+![Lato font](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/bbdf153a-7adc-435b-9c23-87446f8d3b6d)
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
