@@ -75,7 +75,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Color palette
 
-The color palette for the website was created using ![coolors](https://coolors.co/).
+The color palette for the website was created using [coolors](https://coolors.co/).
 ![Color Palette](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/9a0fcd4b-2cd8-4532-8f42-ebb0599fb6cc)
 
 ## Testing 
