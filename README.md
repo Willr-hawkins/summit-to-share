@@ -23,12 +23,14 @@ Summit To Share is a site with the goal of helping to imporve young individuals 
 
 ![The Footer](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/3a604e4a-07f2-4a47-b076-a30aa902d932)
 
-- __The landing page image__
+### Home Page
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+- __Hero Image__
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+  - The Hero image catches the users eye and introduces them to the website.
+  - There is cover text over the Hero image with the groups moto.
+
+![Hero Image](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/00221197-48bf-4c80-9afa-c89c9d6374ea)
 
 - __Club Ethos Section__
 
