@@ -78,6 +78,12 @@ In addition, you may also use this section to discuss plans for additional featu
 The color palette for the website was created using [coolors](https://coolors.co/).
 ![Color Palette](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/9a0fcd4b-2cd8-4532-8f42-ebb0599fb6cc)
 
+- Header and Footer background color: #4E3D42 (Van Dyke).
+- Header and Footer text color: #D4DF9E (Tea Green).
+- Text color: #F1F2E3 (Ivory).
+- Background color: #617557 (Reseda green).
+- Cover text background colors: #A78682 (Cinereous), #D4DF9E (Tea green), #4E3D42 (Van Dyke).
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
