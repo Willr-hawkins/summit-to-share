@@ -126,16 +126,15 @@ All the following icons used for this website have been sourced from [Font Aweso
 
 The Fav icon used for this website was soruced from [Favicon](https://favicon.io/).
 
-## Testing 
+## Testing and Validation
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- __Multiple devices where used to test the fuctionalities of the site:__
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+- PC: Mac Mini, M2 chip, Runnning Chrome, Safari or FireFox, 27" monitor (1920x1080).
+- Tablet: Ipad Air, M1 chip, Running Safari, 10.9" display (2360x1640).
+- Phone: Iphone 13 pro, Running Safari, 6.1" display (2532x1170).
 
 ### Validator Testing 
 
