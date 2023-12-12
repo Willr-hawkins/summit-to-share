@@ -136,12 +136,25 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
   - Tablet: Ipad Air, M1 chip, Running Safari, 10.9" display (2360x1640).
   - Phone: Iphone 13 pro, Running Safari, 6.1" display (2532x1170).
 
-### Validator Testing 
+### Validation
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - For validating the HTML code of the website the official [W3C Validator](https://validator.w3.org/) and [Wave](wave.webaim.org) was used.
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - For validating the CSS code of the website the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) was used.
+
+#### Home Page Validation
+
+- W3C Validator
+   - The html for the home page has no issues.
+
+![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/0c081fde-13a7-4ea6-80e0-0fb155b4a1f3)
+
+#### Charity Page Validation
+
+- W3C Validator
+  - The hero image section lacked a heading.
 
 ### Unfixed Bugs
 
