@@ -160,8 +160,15 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 
 #### Sign Up Page Validation
 
--W3C Validator
- - 
+- W3C Validator
+ - Had issues with duplicate id's in the form section of the page, but once deleted the insignifcant id's, the HTML passed the validator with no issues. 
+
+![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/255c8bad-139e-407a-b364-2fded679a533)
+
+#### CSS Validation
+
+- Jigsaw validator
+ - The CSS for the site passed with no issues.
 
 ### Unfixed Bugs
 
