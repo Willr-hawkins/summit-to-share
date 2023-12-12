@@ -116,6 +116,16 @@ The fonts used for the website are sourced from [Google Fonts](https://fonts.goo
 
 ![AskForJake](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/76e5d575-c73e-4fb5-8ae5-f45815376b75)
 
+### Icons
+
+All the following icons used for this website have been sourced from [Font Awesome](https://fontawesome.com/).
+
+- Instagram
+- Donate
+- Burger icon
+
+The Fav icon used for this website was soruced from [Favicon](https://favicon.io/).
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
