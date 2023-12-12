@@ -178,14 +178,15 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+The Summit To Share site was deployed to [GitHub](https://github.com/) pages, via the following steps:
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- Go to the [Summit-To-Share repository](https://github.com/Willr-hawkins/summit-to-share)
+- Go to the Settings tab (top left in the menu)
+- Go to the left-hand section,under Code and automation click Pages.
+- Go to Source under Build and deployment and use the dropdown menu to choose Deploy from a branch.
+- Under Branch use the dropdown menu to select main and set the folder to root.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here: https://willr-hawkins.github.io/summit-to-share/index.html 
 
 
 ## Credits 
