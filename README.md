@@ -130,11 +130,11 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 
 ### Testing
 
-- __Multiple devices where used to test the fuctionalities of the site:__
+- Multiple devices where used to test the fuctionalities of the site:
 
-- PC: Mac Mini, M2 chip, Runnning Chrome, Safari or FireFox, 27" monitor (1920x1080).
-- Tablet: Ipad Air, M1 chip, Running Safari, 10.9" display (2360x1640).
-- Phone: Iphone 13 pro, Running Safari, 6.1" display (2532x1170).
+  - PC: Mac Mini, M2 chip, Runnning Chrome, Safari or FireFox, 27" monitor (1920x1080).
+  - Tablet: Ipad Air, M1 chip, Running Safari, 10.9" display (2360x1640).
+  - Phone: Iphone 13 pro, Running Safari, 6.1" display (2532x1170).
 
 ### Validator Testing 
 
