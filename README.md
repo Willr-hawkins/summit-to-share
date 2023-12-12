@@ -147,14 +147,21 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 #### Home Page Validation
 
 - W3C Validator
-   - The html for the home page has no issues.
+   - The HTML for the home page has no issues.
 
 ![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/0c081fde-13a7-4ea6-80e0-0fb155b4a1f3)
 
 #### Charity Page Validation
 
 - W3C Validator
-  - The hero image section lacked a heading.
+  - No issues in the Charity Page HTML.
+  
+![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/52d7efde-5aba-4357-beae-6d5c86b7f353)
+
+#### Sign Up Page Validation
+
+-W3C Validator
+ - 
 
 ### Unfixed Bugs
 
