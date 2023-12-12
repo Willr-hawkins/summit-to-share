@@ -96,6 +96,26 @@ The fonts used for the website are sourced from [Google Fonts](https://fonts.goo
 
 ![Lato font](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/bbdf153a-7adc-435b-9c23-87446f8d3b6d)
 
+### Images
+
+- __Unsplash__
+
+  - The home page hero image and the background image in the sign up page are soruced from [Unsplash](https://unsplash.com/), which is a free image site.
+  
+![Unsplash](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/52e22b2b-1f56-469a-b085-dfc57098b93a)
+
+- __Instagram__
+
+  - The circle image in the home page is sourced from the Summit To Share Instagram page.
+  
+![Instagram](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/cd142e6e-6202-4e2a-b2bf-fea24bb8a5e0)
+
+- __AskForJake__
+
+  - The hero image for the charity page is soruced from the Ask For Jake Website as it is their official logo.
+
+![AskForJake](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/76e5d575-c73e-4fb5-8ae5-f45815376b75)
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
