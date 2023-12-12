@@ -149,12 +149,16 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 - W3C Validator
    - The HTML for the home page has no issues.
 
+![Lighthouse](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/a348fd5c-af1f-45f4-a102-d863914cd8a7)
+
 ![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/0c081fde-13a7-4ea6-80e0-0fb155b4a1f3)
 
 #### Charity Page Validation
 
 - W3C Validator
   - No issues in the Charity Page HTML.
+
+![lighthouse](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/94a3150d-c6f3-4a9b-a1b9-543120b0ef53)
   
 ![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/52d7efde-5aba-4357-beae-6d5c86b7f353)
 
@@ -163,16 +167,14 @@ The Fav icon used for this website was soruced from [Favicon](https://favicon.io
 - W3C Validator
   - Had issues with duplicate id's in the form section of the page, but once deleted the insignifcant id's, the HTML passed the validator with no issues. 
 
+![Lighthouse](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/0e386ee0-0d5d-4a85-80ec-84f87936ad8d)
+
 ![Wave Report](https://github.com/Willr-hawkins/summit-to-share/assets/148203271/255c8bad-139e-407a-b364-2fded679a533)
 
 #### CSS Validation
 
 - Jigsaw validator
   - The CSS for the site passed with no issues.
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
